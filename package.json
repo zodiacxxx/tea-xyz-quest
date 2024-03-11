@@ -1,9 +1,12 @@
 {
   "name": "@zodiacxxx/tea-xyz-quest",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Quest for tea.xyz",
   "main": "index.js",
   "author": "@zodiacxxx",
-  "repository": "https://github.com/zodiacxxx/tea-xyz-quest",
-  "license": "ISC"
+  "repository": "https://github.com/zodiacxxx/tea-xyz-quest.git",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
